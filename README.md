@@ -1,4 +1,4 @@
- color generator with react 
+<h1> color generator with react </h1>
  sample app 
  enter your colo and click submit 
  and  Get tints and shades of a CSS color (20color)
